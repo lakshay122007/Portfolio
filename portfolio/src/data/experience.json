@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "role": "Full Stack Developer Intern",
+        "company": "Tech Solutions Inc.",
+        "period": "June 2024 - Present",
+        "description": "Developing and maintaining web applications using React and Node.js. Collaborating with the design team to implement responsive UI components."
+    },
+    {
+        "id": 2,
+        "role": "Open Source Contributor",
+        "company": "GitHub",
+        "period": "Jan 2024 - May 2024",
+        "description": "Contributed to various open-source projects, fixing bugs and adding new features. Improved documentation and code quality."
+    },
+    {
+        "id": 3,
+        "role": "Volunteer Web Developer",
+        "company": "Local NGO",
+        "period": "Aug 2023 - Dec 2023",
+        "description": "Built and deployed a website for a local non-profit organization. Helped them increase their online presence and reach more donors."
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "title": "AI Image Generator",
+        "description": "A web application that uses Stable Diffusion to generate images from text prompts. Features a gallery of generated images and user authentication.",
+        "techStack": [
+            "React",
+            "Python",
+            "FastAPI",
+            "PyTorch"
+        ],
+        "github": "https://github.com/lakshaygoyal/ai-image-generator",
+        "demo": "https://ai-image-gen-demo.vercel.app"
+    },
+    {
+        "id": 2,
+        "title": "Portfolio Website",
+        "description": "My personal portfolio website built with Next.js and Framer Motion. Showcases my projects, skills, and experience with a modern dark theme.",
+        "techStack": [
+            "Next.js",
+            "TailwindCSS",
+            "Framer Motion",
+            "TypeScript"
+        ],
+        "github": "https://github.com/lakshaygoyal/portfolio",
+        "demo": "https://lakshaygoyal.vercel.app"
+    },
+    {
+        "id": 3,
+        "title": "E-commerce Dashboard",
+        "description": "A comprehensive dashboard for managing online stores. Includes real-time analytics, inventory management, and order processing.",
+        "techStack": [
+            "React",
+            "Node.js",
+            "MongoDB",
+            "Chart.js"
+        ],
+        "github": "https://github.com/lakshaygoyal/ecommerce-dashboard",
+        "demo": "https://dashboard-demo.vercel.app"
+    }
+]
